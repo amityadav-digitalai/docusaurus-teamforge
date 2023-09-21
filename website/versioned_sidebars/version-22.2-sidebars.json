@@ -1,0 +1,231 @@
+{
+  "docs": {
+    "Release 22.2": [
+      {
+        "type": "doc",
+        "label": "Release Notes",
+        "id": "release-notes/release-notes-release"
+      },
+      {
+        "type": "category",
+        "label": "Get Started",
+        "collapsed": true,
+        "items": ["xl-release-architecture"]
+      },
+      {
+        "type": "category",
+        "label": "Install on Kubernetes",
+        "collapsed": true,
+        "items": ["operator/xl-kube", "operator/xl-op-install-wizard-release"]
+      },
+      {
+        "type": "category",
+        "label": "Install on JVM",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Authentication",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Roles and Permissions",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Running Releases",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Delivery Patterns",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Release Tasks",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Release Phases",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Release Triggers",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Folders and Templates",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Environments",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Webhooks",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Plugins and Integrations",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "DevOps as Code",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Blueprints",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Digital.ai by Example",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      },
+      {
+        "type": "category",
+        "label": "System Administration",
+        "collapsed": true,
+        "items": [
+          "dai-by-example/deploy-using-terraform-aws-ec2",
+          "dai-by-example/release-and-deploy-to-aws-eks",
+          "dai-by-example/cd-with-release-argocd",
+          "dai-by-example/progressive-delivery-with-release-argorollouts",
+          "dai-by-example/getting-started-with-xl-docker-containers",
+          "dai-by-example/how-to-setup-application-security-using-opa"
+        ]
+      }
+    ]
+  }
+}

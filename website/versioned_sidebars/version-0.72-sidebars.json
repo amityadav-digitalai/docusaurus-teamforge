@@ -1,0 +1,16 @@
+{
+  "docs": {
+    "Release Notes": ["release-notes/release-notes-release"],
+    "Get Started": ["release/xl-release-architecture"],
+    "Plan Your Install or Upgrade": ["operator/xl-kube"],
+    "Install Wizard": ["operator/xl-op-install-wizard-release"],
+    "Digital.ai by Example": [
+      "release/dai-by-example/deploy-using-terraform-aws-ec2",
+      "release/dai-by-example/release-and-deploy-to-aws-eks",
+      "release/dai-by-example/cd-with-release-argocd",
+      "release/dai-by-example/progressive-delivery-with-release-argorollouts",
+      "release/dai-by-example/getting-started-with-xl-docker-containers",
+      "release/dai-by-example/how-to-setup-application-security-using-opa"
+    ]
+  }
+}
