@@ -22,13 +22,13 @@ const commonDocsOptions = {
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Digital.ai Release',
+  title: 'Digital.ai TeamForge',
   tagline:
     'Find answers to your technical questions and learn how to use our products',
   organizationName: 'digital.ai',
-  projectName: 'docs-release',
+  projectName: 'docs-teamforge',
   url: 'https://stage.docs.digital.ai',
-  baseUrl: '/release/',
+  baseUrl: '/teamforge/',
   clientModules: [
     require.resolve('./modules/snackPlayerInitializer.js'),
     require.resolve('./modules/jumpToFragment.js'),
