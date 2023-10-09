@@ -258,12 +258,13 @@ function ReleaseCard1() {
             <MDBCard>
               {/* <MDBCardImage position='top' alt='...' src='img/homepage/deploy-logo.png' /> */}
               <MDBCardBody>
-                <MDBCardTitle>Release 22.3</MDBCardTitle>
+                <MDBCardTitle>TeamForge 22.3</MDBCardTitle>
                 <MDBCardText>
                   <p>GA Oct 10, 2022</p>
                   <p>
-                    With Digital.ai Deploy, automate and standardize complex,
-                    enterprise-scale application deployments to any environment.
+                    With Digital.ai TeamForge, software teams have the
+                    flexibility to choose the best possible workflows without
+                    risking overall process compliance.
                   </p>
                 </MDBCardText>
               </MDBCardBody>
@@ -339,12 +340,13 @@ function ReleaseCard1() {
             <MDBCard>
               {/* <MDBCardImage position='top' alt='...' src='img/homepage/deploy-logo.png' /> */}
               <MDBCardBody>
-                <MDBCardTitle>Release 22.2</MDBCardTitle>
+                <MDBCardTitle>TeamForge 22.2</MDBCardTitle>
                 <MDBCardText>
                   <p>GA Jul 01, 2022</p>
                   <p>
-                    With Digital.ai Deploy, automate and standardize complex,
-                    enterprise-scale application deployments to any environment.
+                    With Digital.ai TeamForge, software teams have the
+                    flexibility to choose the best possible workflows without
+                    risking overall process compliance.
                   </p>
                 </MDBCardText>
               </MDBCardBody>
@@ -431,13 +433,13 @@ function ReleaseCard2() {
             <MDBCard>
               {/* <MDBCardImage position='top' alt='...' src='img/homepage/release-logo.png' /> */}
               <MDBCardBody>
-                <MDBCardTitle>Release 22.1</MDBCardTitle>
+                <MDBCardTitle>TeamForge 22.1</MDBCardTitle>
                 <MDBCardText>
                   <p>GA Apr 05, 2022</p>
                   <p>
-                    With Digital.ai Release, you can automate, orchestrate, and
-                    get visibility into your release pipelines at enterprise
-                    scale.
+                    With Digital.ai TeamForge, software teams have the
+                    flexibility to choose the best possible workflows without
+                    risking overall process compliance.
                   </p>
                 </MDBCardText>
               </MDBCardBody>
@@ -513,11 +515,12 @@ function ReleaseCard2() {
             <MDBCard>
               {/* <MDBCardImage position='top' alt='...' src='img/homepage/deploy-logo.png' /> */}
               <MDBCardBody>
-                <MDBCardTitle>Release 22.0</MDBCardTitle>
+                <MDBCardTitle>TeamForge 22.0</MDBCardTitle>
                 <MDBCardText>
                   <p>GA Jan 25, 2022</p>
-                  With Digital.ai Deploy, automate and standardize complex,
-                  enterprise-scale application deployments to any environment.
+                  With Digital.ai TeamForge, software teams have the flexibility
+                  to choose the best possible workflows without risking overall
+                  process compliance.
                 </MDBCardText>
               </MDBCardBody>
               <MDBListGroup flush>
@@ -769,8 +772,8 @@ function NativeAppsRelease() {
           <>
             <img alt="" src={useBaseUrl('img/homepage/teamforge-logo.jpg')} />
             <p className="tagline">
-              Automate and orchestrate software releases across complex
-              technology environments.
+              Ensure governance, compliance, and code security standards are
+              maintained in development.
             </p>
             <div className="vidWrapper">
               <iframe
