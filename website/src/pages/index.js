@@ -43,7 +43,7 @@ import TabItem from '@theme/TabItem';
 
 const textContent = {
   intro: `
-  Digital.ai Release 23.1.0 includes the following new features:
+  Digital.ai TeamForge 23.1.0 includes the following new features:
 
   <ul>
     <li>Next generation extensibility python sdk tech preview</li>
@@ -149,7 +149,7 @@ function HomeCallToActionRelease() {
   return (
     <>
       <h2>
-        Release 23.1{' '}
+        TeamForge 23.1{' '}
         <MDBBadge className="mx-2" color="info" light>
           New
         </MDBBadge>
@@ -754,7 +754,7 @@ function NativeAppsRelease() {
         reverse
         columnOne={
           <>
-            {/* <h2 className="title">Digital.ai Release 23.1</h2> */}
+            {/* <h2 className="title">Digital.ai TeamForge 23.1</h2> */}
             <div className="buttons">
               <HomeCallToActionRelease />
             </div>
@@ -767,7 +767,7 @@ function NativeAppsRelease() {
         }
         columnTwo={
           <>
-            <img alt="" src={useBaseUrl('img/homepage/release-logo.png')} />
+            <img alt="" src={useBaseUrl('img/homepage/teamforge-logo.jpg')} />
             <p className="tagline">
               Automate and orchestrate software releases across complex
               technology environments.
@@ -777,7 +777,7 @@ function NativeAppsRelease() {
                 width="400"
                 height="215"
                 src="https://www.youtube.com/embed/N2kHTAck1LE"
-                title="digital.ai Release Overview"
+                title="digital.ai TeamForge Overview"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
@@ -823,7 +823,7 @@ function NativeAppsRN() {
         reverse
         columnOne={
           <TextColumn
-            title="What's New in Digital.ai Release 23.1?"
+            title="What's New in Digital.ai TeamForge 23.1?"
             text={textContent.intro}
           />
         }
@@ -1086,7 +1086,7 @@ function GetStarted() {
   return (
     <Section className="GetStarted" background="tint">
       <div className="content">
-        <Heading text="What's New in Digital.ai Release 23.1?" />
+        <Heading text="What's New in Digital.ai TeamForge 23.1?" />
         {/* <ol className="steps">
           <li>
             <p>Run this</p>
@@ -1099,7 +1099,7 @@ function GetStarted() {
             <HomeCallToAction />
           </li>
         </ol> */}
-        Digital.ai Release 23.1.0 includes the following new features:
+        Digital.ai TeamForge 23.1.0 includes the following new features:
         <ul>
           <li>Next generation extensibility python sdk tech preview</li>
           <li>Remote runner for running container-based tasks</li>
