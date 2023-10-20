@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Release Notes": ["release-notes/release-notes-release"],
+    "Release Notes": ["release-notes/apichangelog"],
     "Get Started": ["release/xl-release-architecture"],
     "Plan Your Install or Upgrade": ["operator/xl-kube"],
     "Install Wizard": ["operator/xl-op-install-wizard-release"],

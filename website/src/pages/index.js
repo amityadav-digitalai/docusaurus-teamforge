@@ -62,7 +62,7 @@ const textContent = {
   
   And more features, bug fixes, and enhancements. 
   <br /><br />
-  See <a href="/docs/next/release-notes/release-notes-release"><b>Release Notes</b></a> for more information.
+  See <a href="/docs/next/release-notes/apichangelog"><b>Release Notes</b></a> for more information.
   `,
   nativeCode: `
 React primitives render to native platform UI, meaning your app uses the
@@ -157,7 +157,7 @@ function HomeCallToActionRelease() {
       <br />
       <ActionButton
         type="primary"
-        href={useBaseUrl('docs/release-notes/release-notes-release')}
+        href={useBaseUrl('docs/release-notes/apichangelog')}
         target="_self">
         Release Notes
       </ActionButton>
@@ -215,25 +215,25 @@ function HomeCallToActionRelease() {
       <h3>Other Versions</h3>
       <ActionButton
         type="secondary"
-        href={useBaseUrl('docs/22.3/release-notes/release-notes-release')}
+        href={useBaseUrl('docs/22.3/release-notes/apichangelog')}
         target="_self">
         22.3
       </ActionButton>
       <ActionButton
         type="secondary"
-        href={useBaseUrl('docs/22.2/release-notes/release-notes-release')}
+        href={useBaseUrl('docs/22.2/release-notes/apichangelog')}
         target="_self">
         22.2
       </ActionButton>
       <ActionButton
         type="secondary"
-        href={useBaseUrl('docs/22.1/release-notes/release-notes-release')}
+        href={useBaseUrl('docs/22.1/release-notes/apichangelog')}
         target="_self">
         22.1
       </ActionButton>
       <ActionButton
         type="secondary"
-        href={useBaseUrl('docs/22.0/release-notes/release-notes-release')}
+        href={useBaseUrl('docs/22.0/release-notes/apichangelog')}
         target="_self">
         22.0
       </ActionButton>
@@ -1122,7 +1122,7 @@ function GetStarted() {
         <br />
         <p>
           See{' '}
-          <a href="/docs/next/release-notes/release-notes-release">
+          <a href="/docs/next/release-notes/apichangelog">
             <b>Release Notes</b>
           </a>{' '}
           for more information.
@@ -1149,31 +1149,31 @@ function RNCard() {
                 </MDBCardText>
                 <ActionButton
                   type="tertiary"
-                  href="https://stage.docs.digital.ai/release/docs/release-notes/release-notes-release"
+                  href="https://stage.docs.digital.ai/release/docs/release-notes/apichangelog"
                   target="_self">
                   23.1
                 </ActionButton>
                 <ActionButton
                   type="tertiary"
-                  href="https://stage.docs.digital.ai/release/docs/22.3/release-notes/release-notes-release"
+                  href="https://stage.docs.digital.ai/release/docs/22.3/release-notes/apichangelog"
                   target="_self">
                   22.3
                 </ActionButton>
                 <ActionButton
                   type="tertiary"
-                  href="https://stage.docs.digital.ai/release/docs/22.2/release-notes/release-notes-release"
+                  href="https://stage.docs.digital.ai/release/docs/22.2/release-notes/apichangelog"
                   target="_self">
                   22.2
                 </ActionButton>
                 <ActionButton
                   type="tertiary"
-                  href="https://stage.docs.digital.ai/release/docs/22.1/release-notes/release-notes-release"
+                  href="https://stage.docs.digital.ai/release/docs/22.1/release-notes/apichangelog"
                   target="_self">
                   22.1
                 </ActionButton>
                 <ActionButton
                   type="tertiary"
-                  href="https://stage.docs.digital.ai/release/docs/22.0/release-notes/release-notes-release"
+                  href="https://stage.docs.digital.ai/release/docs/22.0/release-notes/apichangelog"
                   target="_self">
                   22.0
                 </ActionButton>

@@ -1,5 +1,5 @@
 ---
-id: release-notes-release
+id: apichangelog
 hide_table_of_contents: true
 title: Digital.ai Release 23.1.x Release Notes
 product:

@@ -1,13 +1,13 @@
 ---
-id: release-notes-release
+id: apichangelog
 hide_table_of_contents: true
-title: Digital.ai Release 22.1.x Release Notes
+title: Digital.ai Release 22.1 Release Notes
 product:
   - release
 category:
   - Get Started
 subject:
-  - Release Notes
+  - REST API Change Log—TeamForge 22.1
 tags:
   - release notes
 order: 1000
