@@ -1,7 +1,7 @@
 ---
 id: apichangelog
 hide_table_of_contents: true
-title: Digital.ai Release 22.0.x Release Notes
+title: REST API Change Log—TeamForge 22.0
 product:
   - release
 category:
@@ -11,30 +11,16 @@ subject:
 tags:
   - release notes
 order: 1000
+summary: Here's what's new with the TeamForge 22.0 REST APIs as compared to TeamForge 21.2.
 ---
 
-Digital.ai Release 23.3.0 includes the following new features:
+Here's what's new with the TeamForge 22.0 REST APIs as compared to TeamForge 21.2:
 
-- Next generation extensibility python sdk tech preview
-  - Remote runner for running container-based tasks
-- New application onboarding workflows
-- Usability and performance enhancements
-- Limit folder depth in Release
-- Skip Nested variable interpolation for text type variables
-- View string type variable values in string type fields
-- Time frame last 7 days added for audit reports
-- Limit minimal trigger polling interval
-- Set expiration period for personal access token
-- Log retention policy for container-based tasks
-- Reordered sidebar navigation for template release
-- Enhanced Release breadcrumbs
-- Support personal access tokens for LDAP users
-- Enhanced connections page
-- Version control enhancements (`releasefile.yaml` file)
-- Enhancements to Triggers
-- Enhanced XL CLI
-- Other enhancements
-- New Plugins Introduced: OPA, Bamboo, and JFrog
+- `POST /artifacts/filter`—Fixed an issue due to which the API call failed when the payload has Epoch timestamp.
+- `GET /projecttemplates`—Fixed an issue due to which the API call allowed anonymous users to see information about project templates including the usernames of those who created them.
+- `PATCH /ctfrest/tracker/v1/fields/{fieldId}`—Fixed an issue due to which the API call fails with a 500 response code if the user tries to pass more than one field value.
+- `PATCH /projects/{projectid}/workflow` and `PATCH /trackers/{trackerId}/workflow`—Fixed an issue to show the right response code when the user tries to update a non-existing tracker workflow.
+- `POST /trackers/{trackerId}/fields`—Removed the `defaultValueText` validation even if the `required` parameter is set to `true`.
 
 And more bug fixes and enhancements.
 
