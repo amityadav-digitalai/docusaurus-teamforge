@@ -165,37 +165,37 @@ function HomeCallToActionRelease() {
       <br />
       <ActionButton
         type="tertiary"
-        href={useBaseUrl('/versions')}
+        href={useBaseUrl('/teamforge-new')}
         target="_self">
-        Get Started
+        What's New in TeamForge 23.1?
       </ActionButton>
       <br />
       <ActionButton
         type="tertiary"
-        href={useBaseUrl('/versions')}
+        href={useBaseUrl('/teamforge-fixedissues')}
         target="_self">
-        Install/Upgrade
+        What's Fixed in TeamForge 23.0?
       </ActionButton>
       <br />
       <ActionButton
         type="tertiary"
-        href={useBaseUrl('/versions')}
+        href={useBaseUrl('/teamforge-known')}
         target="_self">
-        Plugins and Integrations
+        Known Issues in TeamForge 23.0
       </ActionButton>
       <br />
       <ActionButton
         type="tertiary"
-        href={useBaseUrl('/versions')}
+        href={useBaseUrl('/siteoptionschangelog')}
         target="_self">
-        Digital.ai by Example
+        Site Options Change Log
       </ActionButton>
       <br />
       <ActionButton
         type="tertiary"
-        href={useBaseUrl('/versions')}
+        href={useBaseUrl('/apichangelog')}
         target="_self">
-        REST API Docs
+        REST API Change Log—TeamForge 23.0
       </ActionButton>
       <br />
       <ActionButton
