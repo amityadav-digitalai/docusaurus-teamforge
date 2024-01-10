@@ -20,7 +20,7 @@ Here's a video walk-through.
 
 ## Before you begin
 
-This how-to demonstrates how you can leverage the Digital.ai Deploy application's DevOps as code capabilities and deploy applications to Amazon Web Services (AWS) using Terraform.
+This how-to demonstrates how you can leverage the Digital.ai Deploy application's DevOps as code capabilities and deploy applications to Amazon Web Services (AWS) using Terraform. for more infomation see,
 
 This tutorial involves working with a variety of tools and technologies such as Docker, Docker Compose, Digital.ai Deploy, AWS (EC2 and RDS), Terraform, Digital.ai Deploy's DevOps as code repositories (YAML files), and so on. You can perform this task by simply following the instructions. However, being familiar with these tools and technologies can help you considerably when you try this out in your test environment.
 

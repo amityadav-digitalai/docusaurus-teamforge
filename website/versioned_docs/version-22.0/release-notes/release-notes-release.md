@@ -15,6 +15,7 @@ summary: Here's what's new with the TeamForge 22.0 REST APIs as compared to Team
 ---
 
 Here's what's new with the TeamForge 22.0 REST APIs as compared to TeamForge 21.2:
+For more information see, [Release architecture](xl-release-architecture.md) and [XL Kube Command Reference](operator/xl-kube.md)
 
 - `POST /artifacts/filter`—Fixed an issue due to which the API call failed when the payload has Epoch timestamp.
 - `GET /projecttemplates`—Fixed an issue due to which the API call allowed anonymous users to see information about project templates including the usernames of those who created them.
