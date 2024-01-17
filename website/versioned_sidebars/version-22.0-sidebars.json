@@ -16,7 +16,11 @@
         "type": "category",
         "label": "Install on Kubernetes",
         "collapsed": true,
-        "items": ["operator/xl-kube", "operator/xl-op-install-wizard-release"]
+        "items": [
+          "operator/xl-kube",
+          "operator/xl-op-install-wizard-release",
+          "operator/teamforge-new"
+        ]
       },
       {
         "type": "category",
